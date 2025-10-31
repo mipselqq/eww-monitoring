@@ -24,7 +24,7 @@ A prototyle Eww config with real-time monitoring of CPU temperature, core loads,
 - **EWW Widgets**: Frontend widgets defined in `eww.yuck` with styling in `eww.scss`
 
 ## Installation
-Just put it into your config directory and it'll be fine on x86, otherwise rebuild the polling server with ```cargo build```
+Just put it into your config directory and it'll be fine on x86, otherwise rebuild the polling server with ```cargo build --release```
 
 ## Known Issues
 
