@@ -8,15 +8,15 @@ A prototyle Eww config with real-time monitoring of CPU temperature, core loads,
 
 ## Features
 
-- **CPU Usage**: Monitor CPU utilization
-- **Memory**: Track RAM and swap usage
-- **Disk**: Display disk space and I/O statistics
-- **Network**: Show network activity
-- **Temperature**: Monitor system temperatures
-- **Battery**: Battery status and level
+- **CPU Usage**: Monitor average CPU utilization
+- **Memory**: Track ram
+- **Disk**: Display I/O statistics on several block devices
+- **Network**: Show network activity on several interfaces
+- **Temperature**: Monitor average CPU temperature
+- **Battery**: Battery level
 - **Volume**: Audio volume control and display
-- **Workspaces**: Current workspace information
-- **Time**: Clock and date display
+- **Workspaces**: Active workspaces
+- **Time**: Smol clock.
 
 ## Components
 
